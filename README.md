@@ -1,1 +1,2 @@
 # Experimental-Robotics-Final-Project
+The aim of this project is to develop a service robot for autonomous delivery of food. We aim to control the robot with a joystick remotely, through wireless communication, from a base station, for this phase of the project. The final phase of the project aims to accomplish complete autonomy with robust design of navigation system, path planning and safety critical features.
